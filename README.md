@@ -24,7 +24,7 @@
 
 ## `> whoami`
 
-I'm a Computer Science student at Carleton University who builds tools that solve real problems. Not school exercises that sit in a repo — actual working software that automates things, processes data, and ships to real users.
+I'm a Computer Science student at Carleton University
 
 Currently contributing to **NextRoom.ca**, a student housing platform integrating LLM-powered search. Previously a **Teaching Assistant** for Intro to Python, reviewing 100+ student submissions and running lab sessions.
 
