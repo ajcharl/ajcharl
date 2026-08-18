@@ -26,7 +26,7 @@
 
 I'm a Computer Science student at Carleton University
 
-Currently contributing to **NextRoom.ca**, a student housing platform integrating LLM-powered search. Previously a **Teaching Assistant** for Intro to Python, reviewing 100+ student submissions and running lab sessions.
+Currently contributing to **NextRoom.ca**, a student housing platform integrating LLM-powered search. 
 
 **Dean's List 2025/2026** 📋
 
