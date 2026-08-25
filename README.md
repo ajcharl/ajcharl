@@ -87,26 +87,6 @@ Upload documents, ask questions in plain language, get grounded answers. Built o
 }
 ```
 
-<br>
-
-## `> neofetch`
-
-<div align="center">
-
-<!-- GitHub stats cards with dark theme -->
-<img src="https://github-readme-stats.vercel.app/api?username=ajcharl&show_icons=true&theme=chartreuse-dark&bg_color=0A0A0A&title_color=00FF41&icon_color=00FF41&text_color=CCCCCC&border_color=00FF41&hide_border=false&count_private=true" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajcharl&layout=compact&theme=chartreuse-dark&bg_color=0A0A0A&title_color=00FF41&text_color=CCCCCC&border_color=00FF41&hide_border=false&langs_count=8" height="180" />
-
-<br><br>
-
-<!-- Streak stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajcharl&theme=chartreuse-dark&background=0A0A0A&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border=00FF41" height="180" />
-
-</div>
-
-<br>
-
 ## `> cat current_status.md`
 
 ```
