@@ -1,23 +1,17 @@
-<div align="center">
-
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:003B00,100:00FF41&height=220&section=header&text=Charles%20O.%20Ajie&fontSize=52&fontColor=00FF41&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20CS%20%40%20Carleton&descSize=18&descColor=AAAAAA&descAlignY=55&animation=fadeIn" width="100%" />
-
-<!-- Quick info pills -->
+"<div align="center">
+<!-- Typing animation header -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Charles+O.+Ajie;Full-Stack+Developer+%7C+CS+%40+Carleton" alt="Typing SVG" /></a>
 <br>
+<!-- Short bio -->
 
-![Ottawa](https://img.shields.io/badge/📍_Ottawa,_ON-0A0A0A?style=flat-square)
-![Carleton](https://img.shields.io/badge/🎓_B.CS_Honours,_Software_Engineering_(Co--op)-0A0A0A?style=flat-square)
-![Class](https://img.shields.io/badge/📅_Class_of_2027-0A0A0A?style=flat-square)
-![Dean's List](https://img.shields.io/badge/⭐_Dean's_List_2025%2F2026-003B00?style=flat-square)
+📍 Ottawa, ON  ·  🎓 B.CS Honours, Software Engineering (Co-op)  ·  📅 Class of 2027
 
 <br>
-
+<!-- Social/contact badges -->
 [![Email](https://img.shields.io/badge/charles__ajie%40yahoo.com-0A0A0A?style=for-the-badge&logo=maildotru&logoColor=00FF41)](mailto:charles_ajie@yahoo.com)
-&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/ajcharl-0A0A0A?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/ajcharl)
-
 </div>
+---
 
 <br>
 
