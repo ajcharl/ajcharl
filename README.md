@@ -1,16 +1,19 @@
-"<div align="center">
+<div align="center">
+
 <!-- Typing animation header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Charles+O.+Ajie;Full-Stack+Developer+%7C+CS+%40+Carleton" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Charles+O.+Ajie;Full-Stack+Developer+%7C+CS+%40+Carleton" alt="Typing SVG" /></a>
+
 <br>
-<!-- Short bio -->
 
 📍 Ottawa, ON  ·  🎓 B.CS Honours, Software Engineering (Co-op)  ·  📅 Class of 2027
 
 <br>
-<!-- Social/contact badges -->
+
 [![Email](https://img.shields.io/badge/charles__ajie%40yahoo.com-0A0A0A?style=for-the-badge&logo=maildotru&logoColor=00FF41)](mailto:charles_ajie@yahoo.com)
 [![GitHub](https://img.shields.io/badge/ajcharl-0A0A0A?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/ajcharl)
+
 </div>
+
 ---
 
 <br>
