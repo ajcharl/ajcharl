@@ -22,8 +22,7 @@
 
 CS student at **Carleton University** building things that solve real problems.
 
-Currently contributing to [**NextRoom.ca**](https://nextroom.ca) — a student housing platform with LLM-powered search. I like working across the full stack, from designing clean frontends to wiring up databases and deployment pipelines.
-
+Currently contributing to [**NextRoom.ca**](https://nextroom.ca) — a student housing platform with LLM-powered search.
 <br>
 
 ## `> ls projects/`
@@ -35,7 +34,7 @@ Currently contributing to [**NextRoom.ca**](https://nextroom.ca) — a student h
 <h3 align="center">🔍 JobTrackr</h3>
 <p align="center"><em>Automatic Job Application Tracker</em></p>
 
-A Chrome extension + full-stack web app that detects when you apply to jobs on LinkedIn, Indeed, and Workday — and logs everything automatically.
+A Chrome extension + full-stack web app that detects when you apply to jobs on LinkedIn, Indeed, and Workday and logs everything automatically.
 
 <br>
 
