@@ -107,12 +107,12 @@ Upload documents, ask questions in plain language, get grounded answers. Built o
 
 ## `> cat current_status.md`
 
-```
-🔭  Contributing to NextRoom.ca — LLM-powered housing platform
-🌱  Deepening React, Node.js, and cloud infrastructure skills
-⭐  Dean's List 2025/2026
-💼  Looking for Fall 2026 / Winter 2027 co-op opportunities
-```
+| | |
+|---|---|
+| 🔭 | Contributing to **NextRoom.ca** — LLM-powered housing platform |
+| 🌱 | Deepening **React**, **Node.js**, and **cloud infrastructure** skills |
+| ⭐ | **Dean's List 2025/2026** |
+| 💼 | Looking for **Fall 2026 / Winter 2027** co-op opportunities |
 
 <br>
 
