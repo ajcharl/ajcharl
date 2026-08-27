@@ -1,5 +1,11 @@
 <div align="center">
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!-- HERO -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=24292F&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Charles+O.+Ajie;Full-Stack+Developer+%7C+CS+%40+Carleton" alt="Typing SVG" />
 </a>
@@ -39,6 +45,14 @@ I like building across the stack, from designing interfaces and APIs to working 
 
 ### 🔍 JobTrackr
 
+<div align="center">
+
+<!-- Replace with your actual JobTrackr demo GIF -->
+
+<img src="./assets/jobtrackr-demo.gif" width="850" alt="JobTrackr demo" />
+
+</div>
+
 **Automatic Job Application Tracker**
 
 A Chrome extension and full-stack application that detects job applications across LinkedIn, Indeed, and Workday, then automatically tracks them.
@@ -53,6 +67,14 @@ A Chrome extension and full-stack application that detects job applications acro
 ---
 
 ### 🧠 AI Document Search
+
+<div align="center">
+
+<!-- Replace with your actual AI Document Search demo GIF -->
+
+<img src="./assets/ai-document-search-demo.gif" width="850" alt="AI Document Search demo" />
+
+</div>
 
 **RAG-Powered Document Q&A**
 
@@ -147,11 +169,23 @@ Vector Embeddings · Semantic Search
 
 ---
 
+## `> contributions`
+
+<div align="center">
+
+<!-- Generated automatically by GitHub Actions -->
+
+<img src="https://raw.githubusercontent.com/ajcharl/ajcharl/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
 <div align="center">
 
 `Thanks for stopping by.`
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=ajcharl&color=24292F&style=flat-square&label=PROFILE+VIEWS" />
 
