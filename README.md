@@ -20,9 +20,8 @@
 
 ## `> whoami`
 
-CS student at **Carleton University** building things that solve real problems.
-
-Currently contributing to [**NextRoom.ca**](https://nextroom.ca) — a student housing platform with LLM-powered search.
+CS student at **Carleton University** 
+Currently contributing to [**NextRoom.ca**](https://nextroom.ca) 
 <br>
 
 ## `> ls projects/`
