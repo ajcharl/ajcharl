@@ -143,6 +143,6 @@ Thanks for stopping by.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:003B00,100:00FF41&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:0A0A0A,100:0A0A0A&height=120&section=footer" width="100%" />
 
 </div>
